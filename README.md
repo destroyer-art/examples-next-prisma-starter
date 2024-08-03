@@ -84,5 +84,3 @@ Go to [dashboard.render.com/blueprints](https://dashboard.render.com/blueprints)
 </table>
 
 ---
-
-Created by [@alexdotjs](https://twitter.com/alexdotjs).
